@@ -1,24 +1,35 @@
-# landing
+# Информационные технологии - Лабораторные
 
-## Project setup
-```
-npm install
-```
+## Артамонов Сергей, ИДМ-22-06
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Лабораторная работа №1
 
-### Compiles and minifies for production
-```
-npm run build
-```
+1.  Регистрация на GitHub.\
+[Страница пользователя](https://github.com/Artam0noff)
+2.  Создать персональную веб страницу-отчет с использованием html, css, js.\
+[Персональная страница-отчет](https://artam0noff.github.io/IT/)
+3.  Загрузить персональную веб страницу-отчет в репозиторий ИДМ-22 по курсу "Интернет-технологии" на GitHub.\
+[Папка с исходными кодами в репозитории](https://github.com/Artam0noff/IT)
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Лабораторная работа №2
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1.  Сформировать команду и распредилить роли.\
+[Команда и роли](https://docs.google.com/spreadsheets/d/1ypxgDUpNsaAK5PH90dTfGKdtDnWaeEDWfupEbDokN6A/edit#gid=1327184368)
+2.  Выбрать идею для создания приложения.\
+Идея
+3.  Смакетировать эскиз приложения.\
+Эскиз
+4.  Выбрать стек технологий для разработки.\
+Стек
+5.  Написание кода.\
+Код
+
+## Лабораторная работа №3
+
+1.  Настроить сеть в Сisco Packet Tracer. Packet Tracer
+2.  Отчет по лабораторной работе доступен по ссылке: Отчет
+
+## Подготовка к экзамену
+### Билет № 25
+
+Ответ на экзаменационный билет: [Билет №25](https://github.com/stankin/inet-2022/wiki/exam25)
