@@ -130,6 +130,7 @@
             </h2>
             <hr>
             <h3 class="py-2 my-0">1.Настроить сеть в Сisco Packet Tracer. Packet Tracer.</h3>
+            <h3>TEST</h3>
             <h3 class="py-2 my-0">2.Отчет по лабораторной работе доступен по ссылке: Отчет.</h3>
           </div>
           <div class="px-3 py-3 my-3" style="border: 2px solid black; border-radius: 5px;">
