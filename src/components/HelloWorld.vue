@@ -157,9 +157,12 @@
               Подготовка к экзамену
             </h2>
             <hr>
-            <h3 class="py-2 my-0">Билет №25</h3>
+            <h3 class="py-2 my-0">Подготовить Билет №25</h3>
             <p>
-              Подгтовить реферат: <a href="https://github.com/stankin/inet-2022/wiki/exam25" target="_blank">ссылка на билет</a>
+              <a href="https://github.com/stankin/inet-2022/wiki/exam25" target="_blank">ссылка на билет</a>
+            </p>
+            <p>
+              <a href="https://github.com/stankin/inet-2022/wiki/exam25/_compare/d9b57d5bd25e7509b0edbfc768b80015f289a04d...2f80083de963b5a3ccade5203e824bac3f1524a1">ссылка на коммит</a>
             </p>
           </div>
         </div>
